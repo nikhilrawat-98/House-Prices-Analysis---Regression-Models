@@ -33,26 +33,6 @@ The Jupyter notebook demonstrates the following:
 3. Training multiple linear regression models.
 4. Evaluating the model performance using metrics such as R-squared and P-values.
 
-## Installation
-
-To run the project locally:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/House-Prices-Analysis.git
-    cd House-Prices-Analysis
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Jupyter notebook:
-    ```bash
-    jupyter notebook
-    ```
-
 ## Acknowledgements
 
 The project was developed as part of an MSc course in Business Analytics.
